@@ -1,0 +1,9 @@
+# CSC110 Fall 2021 Final Project Submission: Python libraries used in the program.
+
+# Testing and code checking
+python_ta==2.0.0
+
+# Graphics and data visualization
+plotly==5.3.1
+tkinter (already installed in Python 3.9)
+

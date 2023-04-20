@@ -1,0 +1,10 @@
+china
+japan
+mongolia
+korea
+taiwan
+chinese
+japanese
+mongolian
+korean
+taiwanese
