@@ -1,6 +1,6 @@
 # Graphical Display of East-Asian Mention in Media
 
-This project utilizes `TKinter` and the `plotly` library to demonstrate the appearances of East-Asian mention in media headlines during the peak of the COVID-19 pandemic and compares them to the number of COVID-19 cases at the time, as well as relevant significant events.
+This is an object-oriented project which utilizes `TKinter` and the `plotly` library to demonstrate the appearances of East-Asian mention in media headlines during the peak of the COVID-19 pandemic and compares them to the number of COVID-19 cases at the time, as well as relevant significant events.
 
 ## How to Run the Program
 
