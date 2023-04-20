@@ -22,8 +22,8 @@ The third graph is a line graph of the number of daily COVID-19 cases throughout
 
 The fourth is a histogram displaying the same information.
 
-![](images/covid_histogram)
+![](images/covid_histogram.png)
 
 The last graph shows a stacked line graph comparing the two, and also highlights the dates of relevant significant events occuring throughout.
 
-![](images/stacked_line_graph.png)
+![](images/stacked_line_chart.png)
